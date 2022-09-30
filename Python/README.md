@@ -1,1 +1,1 @@
-This folder is for python files
+This folder is for python projects
