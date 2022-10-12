@@ -18,9 +18,3 @@ the answer. The downside to this method is that three guess wins are very rare. 
 upside of this method is that the algorithm is extrordinarily reliable. In my testing,
 which has included over one hundred unique words, I have yet to see the algorithm fail
 to guess the word in six attempts or less.
-
-As a note on the accuracy of this code: I first wrote this program for a coding competition
-in one of my second year University classes. The competition involved each competitor 
-putting the same 10 random Wordle puzzles through their Wordle code, and the code that
-needed the least total guesses to find all 10 words would win. This program won me that
-competition.
