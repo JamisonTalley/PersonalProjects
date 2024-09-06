@@ -9,7 +9,7 @@ Below are a few of my favorite projects in this repository:
     - Algorithms/Wordle
 - An interactive navigation program in Python that visually demonstrates how different graph searching algorithms work:
     - Algorithms/GraphSearching
-- A ground-up implementation of stochastic gradient decent for neural networks in Python using only NumPy. 
+- A ground-up implementation of stochastic gradient descent for neural networks in Python using only NumPy. 
     - MachineLearning/GroundUpSGD
 - A convolutional neural network for handwritten digit recognition using PyTorch.
     - MachineLearning/DigitRecognition
