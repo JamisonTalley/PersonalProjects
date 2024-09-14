@@ -12,7 +12,7 @@ Below are a few of my favorite projects in this repository:
 - A ground-up implementation of stochastic gradient descent for neural networks in Python using only NumPy. 
     - [MachineLearning/GroundUpSGD](https://github.com/JamisonTalley/PersonalProjects/tree/main/MachineLearning/GroundUpSGD)
 - A convolutional neural network for handwritten digit recognition using PyTorch.
-    - [MachineLearning/DigitRecognition](https://github.com/JamisonTalley/PersonalProjects/tree/main/MachineLearning/MNIST)
+    - [MachineLearning/DigitRecognition](https://github.com/JamisonTalley/PersonalProjects/tree/main/MachineLearning/DigitRecognition)
 
 ### Contact
 If you have questions about my code, or would like to contact me, feel free to reach out at
