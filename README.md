@@ -5,7 +5,7 @@ This is where I publish a selection of my personal coding projects. These are pr
 
 ### Recommendations
 Below are a few of my favorite projects in this repository:
-- A Wordle solving algorithm in Java that won 1st place in a coding competition at the University of Montana:
+- A Wordle solving algorithm in Java that won 1st place in a coding competition:
     - [Algorithms/Wordle](https://github.com/JamisonTalley/PersonalProjects/tree/main/Algorithms/Wordle)
 - An interactive navigation program in Python that visually demonstrates how different graph searching algorithms work:
     - [Algorithms/GraphSearching](https://github.com/JamisonTalley/PersonalProjects/tree/main/Algorithms/GraphSearching)
