@@ -24,6 +24,7 @@ z' = xy - bz
 This system is very sensitive to initial conditions, but with some specific choices of σ, b, and r, one can observe some very interesting stable scenarios. For example σ = 10, b = 8/3, and r = 28 produces the characteristic Lorenz attractors irrespective of the initial spacial conditions. There is no analytical solution for the Lorenz system, so we use numerical methods to simulate the system with different initial conditions.
 
 # Running this Notebook
+*Source: Observable Code Export*
 
 View this notebook in your browser by running a web server in this folder. For
 example:
