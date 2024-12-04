@@ -8,7 +8,7 @@ The data is simulated using the user-selected values for initial conditions, the
 The most significant liberty I took in this project was mirroring the two simulations about the z axis in the animated view. This allows one to view two simulations with two separate initial conditions side-by-side, as in the stable state set by default, the Lorenz Attractors appear entirely in the positive z domain. In effect, the horizontal axes can be thought of as: \[+x, +z, -x, +z]. 
 
 ### Dynamic View
-![dynamic_view =300x300](dynamic_view.gif)
+![dynamic_view](dynamic_view.gif =300x300)
 ### Static View
 ![static_view](static_view.png)
 
