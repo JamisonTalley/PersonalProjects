@@ -1,0 +1,14 @@
+{
+  "name": "cf706d85d6118bc3",
+  "main": "cf706d85d6118bc3@53.js",
+  "version": "53.0.0",
+  "homepage": "https://observablehq.com/d/cf706d85d6118bc3",
+  "author": {
+    "name": "Jamison Talley",
+    "url": "https://observablehq.com/@jamisontalley"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
