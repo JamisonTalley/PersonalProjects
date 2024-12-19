@@ -9,10 +9,12 @@ Below are a few of my favorite projects in this repository:
     - [Algorithms/Wordle](https://github.com/JamisonTalley/PersonalProjects/tree/main/Algorithms/Wordle)
 - An interactive navigation program in Python that visually demonstrates how different graph searching algorithms work:
     - [Algorithms/GraphSearching](https://github.com/JamisonTalley/PersonalProjects/tree/main/Algorithms/GraphSearching)
-- A ground-up implementation of stochastic gradient descent for neural networks in Python using only NumPy. 
+- A ground-up implementation of stochastic gradient descent for neural networks in Python using only NumPy:
     - [MachineLearning/GroundUpSGD](https://github.com/JamisonTalley/PersonalProjects/tree/main/MachineLearning/GroundUpSGD)
-- A convolutional neural network for handwritten digit recognition using PyTorch.
+- A convolutional neural network for handwritten digit recognition using PyTorch:
     - [MachineLearning/DigitRecognition](https://github.com/JamisonTalley/PersonalProjects/tree/main/MachineLearning/DigitRecognition)
+- An interactive visualization of the Lorenz System using `D3.js` and `THREE.js`:
+    - [Misc/LorenzSystem](https://observablehq.com/d/cf706d85d6118bc3@53)
 
 ### Contact
 If you have questions about my code, or would like to contact me, feel free to reach out at
