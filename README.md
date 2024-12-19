@@ -14,7 +14,7 @@ Below are a few of my favorite projects in this repository:
 - A convolutional neural network for handwritten digit recognition using PyTorch:
     - [MachineLearning/DigitRecognition](https://github.com/JamisonTalley/PersonalProjects/tree/main/MachineLearning/DigitRecognition)
 - An interactive visualization of the Lorenz System using `D3.js` and `THREE.js`:
-    - [Misc/LorenzSystem](https://observablehq.com/d/cf706d85d6118bc3@53)
+    - [Misc/LorenzSystem](https://observablehq.com/d/cf706d85d6118bc3)
 
 ### Contact
 If you have questions about my code, or would like to contact me, feel free to reach out at
